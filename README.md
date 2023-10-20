@@ -6,7 +6,7 @@ Brandon Spaqi
 
 ## Leit-Satz
 
-In meinem zweiten Projekt möchte ich einen Tetris Spiel programmieren. (10 Wörter)
+In meinem zweiten Projekt... (x Wörter)
 
 ## Arbeitspakete für 20.10.2023
 
