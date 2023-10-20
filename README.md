@@ -11,7 +11,7 @@ In meinem zweiten Projekt möchte ich einen Tetris Spiel programmieren. (10 Wör
 ## Arbeitspakete für 20.10.2023
 
 - [ ] Ich werde fertig mit meinem M431 Portfolio.
-- [ ] Ich bearbeite Handlungsziel x im M319 für das Portfolio.
+- [ ] Ich bearbeite Handlungsziel 4 im M319 für das Portfolio.
 - [ ] Ich bearbeite Handlungsziel x im M319 für das Portfolio. 
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
