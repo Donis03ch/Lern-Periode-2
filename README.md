@@ -21,3 +21,14 @@ In meinem zweiten Projekt möchte ich einen Tetris Spiel programmieren. (10 Wör
 Heute habe ich... (xx Wörter)
 
 ## Arbeitspakete für 27.10.2023
+
+- [ ] Ich werde fertig mit dem Hz4 im Portfolio für das LB-M319.
+- [ ] Ich werde fertig mit dem Hz5 im Portfolio für das LB-M319.
+- [ ] Ich werde fertig mit dem Hz6 im Portfolio für das LB-M319.
+- [ ] Ich werde fertig mit dem Hz1 im Portfolio für das LB-M319.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich... (xx Wörter)
