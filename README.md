@@ -18,7 +18,8 @@ In meinem zweiten Projekt möchte ich einen Tetris Spiel programmieren. (10 Wör
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
-Heute habe ich... (xx Wörter)
+Heute habe ich erfolgreich das Portfolio für die OBA von Modul 431 fertig gestellt. Leider konnte ich, wegen dem Aufwand für Modul 431, aber auch wegen dem Anfang der Session, 
+keinen der Handlungsziele für die LB von Modul 319 bearbeiten. Ich konnte sehr konzentriert an den Arbeitspaketen arbeiten. (46 Wörter)
 
 ## Arbeitspakete für 27.10.2023
 
