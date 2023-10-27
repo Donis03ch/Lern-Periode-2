@@ -36,13 +36,13 @@ Heute habe ich das Handlungsziel 1 fertig erstellt. Noch habe ich das Handlungsz
 
 ## Arbeitspakete für 03.11.2023
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Ich werde die Map erstellen in Unity. 
+- [ ] Ich werde eine Spielfigur erstellen. 
+- [ ] Ich werde Items/Equiptment ins Spiel integrieren.
+- [ ] Ich werde das Gameplay noch optimieren.
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
-Heute habe ich... (xx Wörter)
+Heute habe ich... (x Wörter)
