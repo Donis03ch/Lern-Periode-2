@@ -26,7 +26,7 @@ keinen der Handlungsziele für die LB von Modul 319 bearbeiten. Ich konnte sehr 
 - [ ] Ich werde fertig mit dem Hz4 im Portfolio für das LB-M319.
 - [ ] Ich werde fertig mit dem Hz5 im Portfolio für das LB-M319.
 - [ ] Ich werde fertig mit dem Hz6 im Portfolio für das LB-M319.
-- [ ] Ich werde fertig mit dem Hz1 im Portfolio für das LB-M319.
+- [x] Ich werde fertig mit dem Hz1 im Portfolio für das LB-M319.
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
