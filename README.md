@@ -32,4 +32,17 @@ keinen der Handlungsziele für die LB von Modul 319 bearbeiten. Ich konnte sehr 
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
+Heute habe ich das Handlungsziel 1 fertig erstellt. Noch habe ich das Handlungsziel 5 auch fertig, schaffen können. Die beiden Handlungsziele waren die einfachen für heute, denn die HZ 4 & 6 sind die grösseren, d.h. sie benötigen mehr Zeit. Das HZ 4 habe ich sonst, aber fast fertig. Das programmieren von Beispielcode für die Kompetenznachweise waren nicht so schwer, wie ich dachte. (57 Wörter)
+
+## Arbeitspakete für 03.11.2023
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
 Heute habe ich... (xx Wörter)
