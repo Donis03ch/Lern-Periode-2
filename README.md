@@ -79,3 +79,28 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
+
+## Arbeitspaket für 10.11.2023
+
+- [ ] Ich werde die Map erstellen in Unity. 
+- [ ] Ich werde eine Spielfigur erstellen. 
+- [ ] Ich werde Items/Equiptment ins Spiel integrieren.
+- [ ] Ich werde das Gameplay noch optimieren.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich mit meiner Gruppe für die Projektarbeit an der Alten Kanti gearbeitet. Ich habe mit WinForms die ersten Darstellung bereit gestellt. Sehr viel Zeit habe ich heute an die Schnittstelle gebraucht. Die Schnittstelle habe ich nicht fertig gestellt, da sie schwer zu verstehen ist. Das Projekt für mich alleine (Top-Down Shooter), werde ich verschieben müssen. (~56 Wörter)
+
+## Arbeitspakete für 17.11.2023
+
+- [ ] Ich werde die API Schittstelle fertig stellen. 
+- [ ] Ich werde ein Array für die Währungen bereitstellen.
+- [ ] Ich werde das Debugging durchführen, um Fehler zu beheben.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich... (x Wörter) 
