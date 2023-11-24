@@ -95,7 +95,18 @@ Heute habe ich mit meiner Gruppe für die Projektarbeit an der Alten Kanti gearb
 
 ## Arbeitspakete für 17.11.2023
 
-- [ ] Ich werde die API Schittstelle fertig stellen. 
+- [x] Ich werde die API Schittstelle fertig stellen. 
+- [ ] Ich werde ein Array für die Währungen bereitstellen.
+- [ ] Ich werde das Debugging durchführen, um Fehler zu beheben.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich... (x Wörter) 
+
+## Arbeitspakete für 24.11.2023
+
 - [ ] Ich werde ein Array für die Währungen bereitstellen.
 - [ ] Ich werde das Debugging durchführen, um Fehler zu beheben.
 
