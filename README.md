@@ -114,4 +114,16 @@ Heute habe ich... (x Wörter)
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
-Heute habe ich... (x Wörter) 
+Heute habe ich einen Array für mindestens 5 Währungen erstellt. Die Schnittstelle musste ich erneut einfügen, da das Programm letztens nicht den Speicher übernahm. An der GUi muss ich noch die Interaktionen besser gestalten. Die Arbeiten heute, habe ich selbständig bearbeitet soweit.  (42 wörter) 
+
+## Arbeitspakete für 01.12.2023
+
+- [ ] Ich werde eine kleine Map erstellen.
+- [ ] Ich werde die Spielfigur mit einer Waffe ausrüsten.
+- [ ] Ich werde die Gegner (Slimes) interegieren.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich... (x wörter)
