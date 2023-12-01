@@ -118,9 +118,9 @@ Heute habe ich einen Array für mindestens 5 Währungen erstellt. Die Schnittste
 
 ## Arbeitspakete für 01.12.2023
 
-- [ ] Ich werde eine kleine Map erstellen.
-- [ ] Ich werde die Spielfigur mit einer Waffe ausrüsten.
-- [ ] Ich werde die Gegner (Slimes) interegieren.
+- [ ] Ich werde das erste Rätsel vom AoC lösen.
+- [ ] Ich werde den Rechner fertig stellen.
+- [ ] Ich werde debuggen.
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
