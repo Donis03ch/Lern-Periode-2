@@ -126,4 +126,16 @@ Heute habe ich einen Array für mindestens 5 Währungen erstellt. Die Schnittste
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
-Heute habe ich... (x wörter)
+Heute habe ich meinen Rechner in Winforms veruscht zum laufen zu bringen. Das Programm startet, jedoch wird es nicht umgerechnet. Das Array sollte funktionieren. Bei der Schnittstelle bin ich mir nicht ganz sicher ob diese funktioniert, da eben die Kurse nicht umgerechnet werden.  (43 wörter)
+
+## Arbeitspaket für 08.12.2023
+
+- [ ] Ich werde eine kleine Map erstellen.
+- [ ] Ich werde Mobs (Slime) hinzufügen.
+- [ ] Ich werde eine Spielfigur integrieren.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich... (x Wörter) 
