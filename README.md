@@ -150,7 +150,7 @@ Heute habe ich... (x Wörter)
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
 
-Heute habe ich die kleine Map fertig gemacht. Ich habe meiner Spielfigur ein movement set programmiert. Dieser funktioniert, aber leider nicht. Ich werde das nächste mal eine andere funktion für diese benutzen.  (32 Wörter) 
+Heute habe ich die kleine Karte fertiggestellt und bereits das Bewegungsset für meine Spielfigur erstellt. Leider funktioniert es noch nicht wie gewünscht. Beim nächsten Versuch werde ich eine andere Funktion dafür verwenden. Das Hinzufügen der Mobs sollte auch nicht schwer sein, denke ich.  (41 Wörter) 
 
 ## Arbeitspaket für 22.12.2023
 
