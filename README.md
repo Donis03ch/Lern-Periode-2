@@ -142,9 +142,21 @@ Heute habe ich... (x Wörter)
 
 ## Arbeitspaket für 15.12.2023
 
-- [ ] Ich werde eine kleine Map erstellen.
+- [x] Ich werde eine kleine Map erstellen.
 - [ ] Ich werde Mobs (Slime) hinzufügen.
-- [ ] Ich werde eine Spielfigur integrieren.
+- [x] Ich werde eine Spielfigur integrieren.
+
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+
+Heute habe ich die kleine Map fertig gemacht. Ich habe meiner Spielfigur ein movement set programmiert. Dieser funktioniert, aber leider nicht. Ich werde das nächste mal eine andere funktion für diese benutzen.  (32 Wörter) 
+
+## Arbeitspaket für 22.12.2023
+
+- [ ] Ich werde Mobs (Slime) hinzufügen.
+- [ ] Ich werde das movement der Charaktere verbessern.
+- [ ] Ich werde eine Lebensanzeige hinzufügen.
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
