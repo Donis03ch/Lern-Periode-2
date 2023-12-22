@@ -173,3 +173,55 @@ Die Erstellung einer Map in Unity und einer Spielfigur konzentrierte sich zunäc
 Weitere Anstrengungen wurden unternommen, um das erste Rätsel vom AoC zu lösen und den Rechner fertigzustellen. Es wurde jedoch festgestellt, dass das Programm startete, aber die Umrechnung nicht durchgeführt wurde und die Kurse nicht stimmten. Insgesamt zeigt sich eine klare Zuversicht und Bereitschaft, Probleme aktiv anzugehen und verschiedene Lösungsansätze zu verfolgen. (198 Wörter)
 
 Für die nächste Lernperiode nehme ich mir vor, meine Arbeitsweise zu verbessern, indem ich meine Zeit- und Ressourcenverwaltung optimiere. Ich möchte aktiv daran arbeiten, klare Prioritäten zu setzen und realistische Zeitpläne zu erstellen, die es mir ermöglichen, meine Aufgaben effektiver zu bewältigen. Zudem plane ich, meine Kommunikationsfähigkeiten zu stärken, um erfolgreich in Gruppenprojekten zu arbeiten und eventuelle Missverständnisse zu minimieren. Darüber hinaus beabsichtige ich, eine proaktive Herangehensweise bei der Bewältigung von Problemen zu verfolgen, indem ich frühzeitig Unterstützung suche, wenn ich auf Hindernisse stoße. Durch diese Verbesserungen strebe ich danach, nicht nur meine Effizienz, sondern auch meine Fähigkeit zur Zusammenarbeit und Problemlösung zu steigern.
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.InputSystem;
+
+public class PlayerController : MonoBehaviour
+{
+    public float moveSpeed = 1f;
+    public float collisionOffset = 0.05f;
+    public ContactFilter2D movementFilter;
+
+    Vector2 movementInput;
+    Rigidbody2D rb;
+    List<RaycastHit2D> castCollisions = new List<RaycastHit2D>();
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
+    private void FixedUpdate()
+    {
+        // if movement is not 0 ; try to move
+        if(movementInput != Vector2.zero)
+        {
+            // check for ¨potential collisions
+            int count = rb.Cast
+                (
+                movementInput,
+                movementFilter,
+                castCollisions,
+                moveSpeed * Time.fixedDeltaTime + collisionOffset);
+
+            if(count > 0)
+            {
+                rb.MovePosition(rb.position + movementInput * moveSpeed * Time.fixedDeltaTime);
+            }
+
+        }
+    }
+
+    void OnMove(InputValue movementValue)
+    {
+        movementInput = movementValue.Get<Vector2>();
+    }
+}
+```
+
+ In meiner Reflexion sehe ich, dass ich mich zu Beginn meines Projekts auf die Erstellung einer Map in Unity und die Bewegung der Spielfigur konzentriert habe. Der bereitgestellte Code für den PlayerController unterstützt meine Geschichte, indem er zeigt, dass ich mich auch konkret mit der Steuerung der Spielfigur auseinandergesetzt habe. Die Verwendung einer physics-based Bewegungssteuerung zeigt, dass ich mich intensiv mit der Funktionsweise von Unity auseinandergesetzt habe und versucht habe, eine realistische Spielerbewegung zu implementieren. Der Code verdeutlicht, dass ich mich in diesem Bereich weiterentwickelt habe, aber auch zeigt, dass ich weiterhin Schwierigkeiten mit der Kollisionsabfrage und der Handhabung von Potenzialkollisionen habe. Dies dient als Anhaltspunkt für weitere Verbesserungen und Entwicklungsmöglichkeiten in meinem Projekt.  
