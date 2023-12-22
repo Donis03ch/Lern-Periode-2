@@ -174,6 +174,9 @@ Weitere Anstrengungen wurden unternommen, um das erste Rätsel vom AoC zu lösen
 
 Für die nächste Lernperiode nehme ich mir vor, meine Arbeitsweise zu verbessern, indem ich meine Zeit- und Ressourcenverwaltung optimiere. Ich möchte aktiv daran arbeiten, klare Prioritäten zu setzen und realistische Zeitpläne zu erstellen, die es mir ermöglichen, meine Aufgaben effektiver zu bewältigen. Zudem plane ich, meine Kommunikationsfähigkeiten zu stärken, um erfolgreich in Gruppenprojekten zu arbeiten und eventuelle Missverständnisse zu minimieren. Darüber hinaus beabsichtige ich, eine proaktive Herangehensweise bei der Bewältigung von Problemen zu verfolgen, indem ich frühzeitig Unterstützung suche, wenn ich auf Hindernisse stoße. Durch diese Verbesserungen strebe ich danach, nicht nur meine Effizienz, sondern auch meine Fähigkeit zur Zusammenarbeit und Problemlösung zu steigern.
 
+![image](https://github.com/Donis03ch/Lern-Periode-2/assets/111046453/c3eda197-29ea-4f96-a72d-07660ff8b37b)
+
+
 ```
 using System.Collections;
 using System.Collections.Generic;
