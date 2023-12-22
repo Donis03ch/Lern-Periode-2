@@ -163,3 +163,12 @@ Heute habe ich die kleine Karte fertiggestellt und bereits das Bewegungsset für
 | 1   |     |     |     |     |
 
 Heute habe ich... (x Wörter) 
+
+## Reflexion
+
+Das Projekt verzeichnete variablen Fortschritt, beginnend mit der Fertigstellung des Portfolios für die OBA von Modul 431. Dies erforderte konzentrierte Arbeit, während die Handlungsziele für die LB von Modul 319 aufgrund des Zeitaufwands und des Sessionbeginns nicht bearbeitet werden konnten. Anschließend wurden konkrete Schritte zur Erfüllung der Handlungsziele im Portfolio für das LB-M319 dokumentiert, wobei größere Handlungsziele mehr Zeit in Anspruch nahmen.
+
+Die Erstellung einer Map in Unity und einer Spielfigur konzentrierte sich zunächst auf das Movement der Spielfigur. Die Zusammenarbeit in einer Gruppe für ein Projekt an der Alten Kanti beeinflusste die Fortschritte, wobei festgestellt wurde, dass die Schnittstelle schwer zu verstehen war. Anschließend konzentrierte sich die Arbeit auf die Fertigstellung der API-Schnittstelle sowie das Erstellen eines Arrays für Währungen. Es wurde festgestellt, dass die Schnittstelle erneut eingefügt werden musste, da das Programm den Speicher nicht übernahm.
+
+Weitere Anstrengungen wurden unternommen, um das erste Rätsel vom AoC zu lösen und den Rechner fertigzustellen. Es wurde jedoch festgestellt, dass das Programm startete, aber die Umrechnung nicht durchgeführt wurde und die Kurse nicht stimmten. Insgesamt zeigt sich eine klare Zuversicht und Bereitschaft, Probleme aktiv anzugehen und verschiedene Lösungsansätze zu verfolgen. (198 Wörter)
+
